@@ -1,0 +1,6 @@
+Hello $NAME
+
+This is a Body message to test
+smtpclient with the sender $NAME
+
+THANKS
