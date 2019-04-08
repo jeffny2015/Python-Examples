@@ -1,2 +1,3 @@
-# Python-Examples
-Python Examples 
+# Python
+
+- Simple Message Transfer Protocol
